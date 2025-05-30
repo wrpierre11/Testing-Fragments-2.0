@@ -9,7 +9,15 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@types/stats.js": "^0.17.4",
     "typescript": "~5.8.3",
     "vite": "^6.3.5"
+  },
+  "dependencies": {
+    "@thatopen/components": "^2.4.11",
+    "@thatopen/fragments": "^3.0.7",
+    "@thatopen/ui": "^2.4.5",
+    "stats-js": "^1.0.1",
+    "stats.js": "^0.17.0"
   }
 }
